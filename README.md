@@ -8,6 +8,7 @@ Soal Latihan
 3. Gambarkan Struktur Central Processing Unit dan jelaskan masing-masing fungsi?
 
 4. Gambarkan operasi-operasi komputer dan jelaskan masing-masing fungsi?
+
 Jawaban 
 
 1. •Arsitektur Komputer
