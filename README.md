@@ -48,13 +48,16 @@ fungsi computer sebagai alat memindahkan data : dengan memindahkan data dari per
 Contoh : keyboard ke screen, Jarak lebih jauh maka proses komunikasi data.
 
 ![IMG-20240122-WA0022](https://github.com/MRIOPERDANA/ARSITEKTUR-DAN-ORGANISASI-KOMPUTER/assets/148735624/55f7ece3-d320-46e5-b985-07458aeb756c)
+
 2.) Operasi penyimpan data (data storage)
 Computer sebagai alat menyimpan data :
 Data di pindahkan dari lingkungan luar ke penyimpanan computer (baca) dan sebaliknya (tulis)
 
 ![IMG-20240122-WA0023](https://github.com/MRIOPERDANA/ARSITEKTUR-DAN-ORGANISASI-KOMPUTER/assets/148735624/d9636bae-04b3-4eaa-ac38-a8d39d0563a1)
+
 3.) Operasi pengolahan data (processing)
+computer sebagai pengolahan data, baik dari atau ke penyimpanan
 
 
 ![IMG-20240122-WA0024](https://github.com/MRIOPERDANA/ARSITEKTUR-DAN-ORGANISASI-KOMPUTER/assets/148735624/960d28a3-8233-4290-adcf-8ce2a3102098)
-4.) computer sebagai pengolahan data, baik dari atau ke penyimpanan
+4.) Operasi kontrol
